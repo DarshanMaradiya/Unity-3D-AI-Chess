@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 08e51325d4c1f8743989a5207ef800a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlueHighlightPrefab: {fileID: 1234537632389503964, guid: f01a2f44edda93b43a15d7af182ad8eb,
+      type: 3}
+  - YellowHighlightPrefab: {fileID: 1234537632389503964, guid: 270337611329e6144b943f0c3f7da552,
+      type: 3}
+  - RedHighlightPrefab: {fileID: 1234537632389503964, guid: bd2d0843c5640004e9719d23a6ba81c6,
+      type: 3}
+  - PurpleHighlightPrefab: {fileID: 1234537632389503964, guid: 270337611329e6144b943f0c3f7da552,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
